@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorfismo", "Polimorfism
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameUnits", "GameUnits\GameUnits.csproj", "{68EC6003-BFEE-43E6-AF2B-561387D7FBA7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverrideVsNew", "OverrideVsNew\OverrideVsNew.csproj", "{33F195EE-18C7-4D16-BD99-C34A6EC2BA24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{68EC6003-BFEE-43E6-AF2B-561387D7FBA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68EC6003-BFEE-43E6-AF2B-561387D7FBA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68EC6003-BFEE-43E6-AF2B-561387D7FBA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33F195EE-18C7-4D16-BD99-C34A6EC2BA24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F195EE-18C7-4D16-BD99-C34A6EC2BA24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F195EE-18C7-4D16-BD99-C34A6EC2BA24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33F195EE-18C7-4D16-BD99-C34A6EC2BA24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

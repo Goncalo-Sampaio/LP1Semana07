@@ -18,5 +18,9 @@ namespace GameUnits
             this.movement += move;
             Console.WriteLine(move);
         }
+
+        public override string ToString(){
+            return this.GetType().Name + $": HP={Health} COST={Cost:f2}";
+        }
     }
 }
